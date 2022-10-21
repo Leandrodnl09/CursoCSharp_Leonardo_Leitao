@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\bin\Debug\net6.0\CursoBasicoAoAvancado.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\bin\Debug\net6.0\CursoBasicoAoAvancado.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\bin\Debug\net6.0\CursoBasicoAoAvancado.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\bin\Debug\net6.0\CursoBasicoAoAvancado.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\bin\Debug\net6.0\CursoBasicoAoAvancado.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\obj\Debug\net6.0\CursoBasicoAoAvancado.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\obj\Debug\net6.0\CursoBasicoAoAvancado.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\obj\Debug\net6.0\CursoBasicoAoAvancado.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\obj\Debug\net6.0\CursoBasicoAoAvancado.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\obj\Debug\net6.0\CursoBasicoAoAvancado.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\obj\Debug\net6.0\CursoBasicoAoAvancado.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\obj\Debug\net6.0\refint\CursoBasicoAoAvancado.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\obj\Debug\net6.0\CursoBasicoAoAvancado.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\obj\Debug\net6.0\CursoBasicoAoAvancado.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CursoBasicoAoAvancado\obj\Debug\net6.0\ref\CursoBasicoAoAvancado.dll
